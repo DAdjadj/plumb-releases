@@ -11,9 +11,7 @@ This repository only holds the downloads. Get the latest version from
 
 1. Download `Plumb.zip` from the latest release and unzip it.
 2. Move **Plumb** to your Applications folder and open it.
-3. The first time, macOS may say it can't verify the app. Open System Settings > Privacy & Security,
-   scroll down and click **Open Anyway**. This is needed once.
-4. Turn on Plumb in System Settings > Privacy & Security > Full Disk Access, then quit and reopen it,
+3. Turn on Plumb in System Settings > Privacy & Security > Full Disk Access, then quit and reopen it,
    so it can measure folders macOS keeps private, like Mail and other apps' data. Without it, Plumb
    still works and leaves those folders closed.
 
